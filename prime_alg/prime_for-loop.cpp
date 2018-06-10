@@ -20,6 +20,8 @@ bool prime(int a){
 
 
 int main(){
+    //zb. für 15 = 0 für false
+    // 1 für true
     cout<< prime(15);
 }
 
